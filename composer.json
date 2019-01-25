@@ -1,0 +1,15 @@
+
+{
+	 "config": {
+        "vendor-dir": "application/third_party"
+    },
+	 "type": "codeigniter-third-party",
+    "require": {
+        "google/apiclient":"~2.0",
+        "abraham/twitteroauth":"0.6.4",
+        "cosenary/instagram":"~2.3",
+        "facebook/php-sdk-v4" : "~5.0",
+         "larabros/elogram":"~1.0",
+         "mpdf/mpdf":"~6"
+    }
+}

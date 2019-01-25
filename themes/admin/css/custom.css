@@ -1,0 +1,113 @@
+span.handle{
+ 	background-color: #b4b3b3;
+    background-image: url(../images/drag.png);
+    background-position: center center;
+    background-repeat: no-repeat;
+    cursor: move;
+    display: inline-block;
+    float: left;
+	height:25px;
+    width: 30px;
+}
+
+/*for dropdown button by bikash: 9/4/2015*/
+
+.ddmenu { font-weight: normal; font-size: 1.55em; margin: 0 auto; position: relative; background-color: #703c21; border-radius: 6px; box-shadow: 0 3px 0 0 #6b3418; color: #fff; display: inline-block; font-size: 16px; text-shadow: none; margin-bottom:50px; -webkit-transition: all 0.15s linear; -moz-transition: all 0.15s linear; -ms-transition: all 0.15s linear; -o-transition: all 0.15s linear; transition: all 0.15s linear; cursor:pointer;	}
+.ddmenu .main_btn{text-align:center; padding: 10px 20px; display:inline-block; position:relative; min-width: 100px; color:#fff;}
+.ddmenu:hover {background: #9A4C25; box-shadow: 0 3px 0 0 #884320;}
+.ddmenu.open {background: #9A4C25; box-shadow: 0 3px 0 0 #884320; color: #fff;}
+.ddmenu ul {position: absolute; top: 100%; padding: 5px 0px; display: none; background: #fff; margin-top:5px; -webkit-box-shadow: 1px 1px 2px 1px rgba(0,0,0,0.3); -moz-box-shadow: 1px 1px 2px 1px rgba(0,0,0,0.3); box-shadow: 1px 1px 2px 1px rgba(0,0,0,0.3); white-space:nowrap; z-index:999;}
+.ddmenu ul li { font-size: 0.9em; }
+.ddmenu ul li a {text-decoration: none; display: block; color: #6b3418; padding: 7px 15px;}
+.ddmenu ul li a:hover {color: #e35912; background: #e7f0f7;}
+.ddmenu .dropdown-submenu {position: relative;}
+.ddmenu .dropdown-submenu > .dropdown-menu {top:10% !important; left: 100%; margin-top: -4px;}
+.ddmenu .dropdown-submenu:hover > .dropdown-menu {display: block !important;}
+.ddmenu .dropdown-submenu > a:after{content: "▼"; position: absolute; top: 10px; right: 0; font-size: 60%; padding: 0 7px; background: #fff; color: #6b3418; webkit-transform: rotate(-90deg); -moz-transform: rotate(-90deg); -o-transform: rotate(-90deg); -ms-transform: rotate(-90deg); transform: rotate(-90deg);}
+.ddmenu .dropdown-submenu > a:hover:after{background: #e7f0f7; color:#e35912;}
+.box_block form fieldset h4, .box_block form fieldset .ddmenu{margin-left:30px; margin-top:15px;}
+.box_block form fieldset p{padding:15px;}
+.ddmenu a.main_btn:after{content: "▼"; position: absolute; top: 9px; right: 0; font-size: 60%; padding: 0 7px; background:none; color: #fff;}
+.open a.main_btn:after{content: "▼"; position: absolute; top: 15px; right: 0; font-size: 60%; padding: 0 7px; background:none; color: #fff;  webkit-transform: rotate(-180deg); -moz-transform: rotate(-180deg); -o-transform: rotate(-180deg); -ms-transform: rotate(-180deg); transform: rotate(-180deg);}
+
+/*.ddmenu .dropdown-submenu > a:after {display: inline-block; content: "\f105"; font-family:"FontAwesome"; margin-right: -5px; font-weight:bold; padding-left:15px; text-align:right;}*/
+/* Target all Firefox */ 
+/*@-moz-document url-prefix(){.ddmenu .dropdown-submenu > a:after { display: inline-block; content: "\f105"; font-family:"FontAwesome"; margin-right: -5px; font-weight:bold; padding-left:15px; text-align:right;} } */
+
+.round_btn {
+    width: 21px;
+    height: 21px;
+    font-size: 13px;
+    line-height: 21px;
+    text-align: center;
+    border-radius: 100%;
+    color: #FFF;
+    margin-left: 3px;
+    display: inline-block;
+}
+
+span.facebook, span.instagram {
+    background: #395185;
+}
+
+span.twitter {
+    background: #5bc0de;
+}
+
+span.youtube{
+    background: #d9534f;
+}
+span.tumblr{
+    background-color: #37455c;
+}
+
+.admin_pos_fix { margin-top:-20px; }
+.admin_pos_fix img { float:left; margin-top:4px; }
+.bg_fff .btn-youtulee img {max-width:50px;}
+.btn-youtulee {background:#001781;}
+a.btn-youtulee:hover, a.btn-youtulee:focus{
+    background-color: #0a218d !important
+}
+.notifycreator{
+    position: relative;
+    cursor:pointer;
+}
+
+.notifycreator:before {     font-size: 15px; }
+.notifycreator span{
+position: absolute;
+    top: -28px;
+    right: 0;
+    margin-right: -65px;
+    display: none;
+    background: #a00000;
+    text-shadow: none;
+    color: #fff;
+    padding: 5px;
+    border-radius: 3px;
+    min-width: 130px;
+}
+.notifycreator:hover span{
+display: block;
+}
+#brwose-image{border: 1px solid #ccc; width:100%; height:auto; max-height: 200px; min-height: 200px; overflow:hidden; padding: 10px;}
+#brwose-image img{max-width: 100%; max-height: 180px;}
+.fileUpload {
+    position: relative;
+    overflow: hidden; margin:5px;
+}
+.upload_product_image{ padding:0 22px;}
+.upload_product_image input.upload{
+    position: absolute;
+    top:5px;
+    right: 0;
+    margin: 0;
+    padding: 0;
+    font-size: 20px;
+    cursor: pointer;
+    opacity: 0;
+    filter: alpha(opacity=0);
+    width:100%;
+}
+/*-- Css by rishi --*/
+

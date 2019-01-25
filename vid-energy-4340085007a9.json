@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "vid-energy",
+  "private_key_id": "4340085007a9d12a67bbc55aa1fcb72608d3af08",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQDcVI4t4woVCg9v\nlep7X6Cu4Ylp6mGGjauLH7Ps9Rx1UQYvyqEZjt+CLwDJWuXfCig4JuQnrTrioC3/\n/PJUYsTsMDhP3mfnB5rJbLzlesSB6Mp7P5jYUBZMWO63Lkan6/Aexx1WONoLLGXZ\nrxSrHa13RcJBWjXzuaXS2V3bE4kca7e0pe4f2Qqd0xWwUbcRuP1H0speM7Lo9q+o\nnjob7oOVgkVsxKjKOVoITSSUf+vNevDCYmo84PjqBZT/njZYi0tTV7Wqzh8XsziD\njdYEjNNeBGJRFtWoC19N+shoUhGikRZt1VreJA+HdHpc664sAIuNLB4eSw+WhUmz\ne5BvJrRtAgMBAAECggEACVKWlYB2y78aOhl4y3GXZe7rFo0xRTU3XfKgdVVFt/0O\nqvUC7gbqlCKTAPIUqeRPIVkb7EXbKP2oFJ3KTyHCvU+pAlAhy1e6B+3O7FLOf8Su\n1JozSGvTFbXpm9ycZryH83VvW1eaekCNqrFKyZa+4T4VYxiDEeX4CzzhSMTB127v\nQ6rQAV/RZGUGbtQlIXBlPoyGYLGsw+lZUxLgIx2JU1Sfkpj1yfaJgXs94tO1zcU1\nkwgdLkdicEliHCEobVJkMRKUEwjdQlsX2gFKbEYoX+DTxYBhL7dk5lN0dkB8ecXz\nlayRxgoUp2bCkM3BYUUwmo06igf1ajkBGZt76VPEYQKBgQDym1IyOvGWG5d320kt\njpE5UkC5PxUa6+ojP+E1DD1ezgl7O/bhJEGOfNP5UEKSJYUxeS3kg4tX0Lq5Brk0\nFkwEOlPu6rkqyiimooBv0LhbBxvaHZgO0ifge+7FtE3MqRJdJ/UX5bqq6tbvpubZ\ndXXt+c83X8QFzOxbL151K8bxdQKBgQDofmi4dguqZzy9gtD3CnI0IbhizbCB3sIG\nggPmsHL48KaWv6oETxDczoUi85ceQDFC0Wd2dIE61wYjMexAKQ+YBLnQwags92AV\nhEJCJV/nZUqbX4Rv3MJLy0ZgKCiTa+5N2TPccLduQsBBuiTBmccYkXCOjkqHO2ND\nwx0PAJCgGQKBgBGtHW0JfGaqdfvGn2tRUuVxR8P3g6sleza8RcVese4BZxFyigdX\nY+tkzvEAVwlc8HptUNmwd+ubCq/GfKH96eX49fqXYYxrlFCn0GHVPEltmCrpMxYJ\nW9xwSzJec7iwrOTar3HhTBt95tEpQPKhK0l+hQmM0bR2fNYb+m7hFKqtAoGAZ6iU\nwEnBgcRtzIEa8kpyCNRQBZ136S+MiqJFYwGhAWUqoWPrReiKuChMK/03j4FHdWcw\nHhxr0fQ1BFQp5aFpFnpk7rKpbQMOkAlcEWngjKcY0JWR0t42stx7EDxXewNQSN1i\nxhJrdnnEhomcAcWygz21VZoTmJ/d7kR8HEhAM2ECgYBMKTsK7BUaQ11P37mNWzWZ\nwATPyprNT6Rf86c+T45WCcdUeso0ko5p+bcHiFZO3fJM1+WlXTGYpD0IpVBPonzV\nQ4R6LrZaWphpa/2XZw6tqlHalWelmxLdSxwmloR1XWKTfuFJomEEDwcXm7ewHoo0\nT17n3Ljk0xpMquWbOd3BmA==\n-----END PRIVATE KEY-----\n",
+  "client_email": "vid-energy@vid-energy.iam.gserviceaccount.com",
+  "client_id": "114701617975306719255",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://accounts.google.com/o/oauth2/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/vid-energy%40vid-energy.iam.gserviceaccount.com"
+}

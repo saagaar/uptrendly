@@ -1,0 +1,222 @@
+@charset "utf-8";
+/* CSS Document */
+
+@media only screen and (max-width:1200px) {
+}
+
+@media only screen and (max-width:1024px) {
+.auction-house table th.col_1, .auction-house table th.col_5{width:15%;}
+.banner-sec h1{margin-top:0;}
+.banner-sec a{font-size:24px; padding:10px 40px;}
+.banner-sec h1{font-size:36px; margin-bottom:0;}
+.banner-sec h2{font-size:30px;}
+ul.footer-link li a{padding:2px 5px;}
+.social-sec ul li a{margin-left:5px;}
+.banner-sec p{width:65%;}
+}
+
+@media only screen and (max-width:991px) {
+	header .navbar li a{margin-left:5px; padding:26px 10px;}
+	.banner-sec h2, ul.user_info li i{margin-top:10px;}
+	.banner-sec p{width:85%;}
+	.how-work .box{margin-top:15px;}
+	.log-form .gray_box{margin-top:30px;}
+	.live_box ol, .about_user ul.pull-right p{margin-bottom:0;}
+	form.reply{margin-top:0;}
+	.log-form{margin-bottom:15px;}
+	.log-form table, form.reply{margin-bottom:30px;}
+	.auction-house table th.col_1{width:30%;}
+	.auction-house table th.col_3, .auction-house table th.col_4{width:18%;}
+	.auction-house .table>tbody>tr>td:nth-child(2), .auction-house .table>thead>tr>th.col_1{padding-left:40px;}
+	.auction-house .footable-row-detail-inner{padding-left:30px;}
+	.why-rev-auc a.btn-more{margin-top:0em; margin-bottom:30px; float:right; margin-right:15px;}
+	.why-rev-auc .box2{min-height:262px;}
+	.why-rev-auc .box2 h4{min-height:auto;}
+	.how-work .box .number{height:50px; width:50px; line-height:52px; margin-top:-42px;}
+	.how-work .box .number{font-size:30px;}
+	.how-work h1, .auction-house h1{margin-bottom:30px;}
+	.live_box form input[type=checkbox]{left:6.5%;}
+	.log-form .table tr .expand{padding-left:30px;}
+	.about_user ul.pull-right{float:left !important; padding-top:10px; margin-bottom:0;}
+}
+@media only screen and (max-width:768px) {
+	.auction-house table th.col_1{width:35%;}
+	
+}
+
+@media only screen and (max-width:767px) {
+	header .navbar-toggle{border-color:#ddd; margin-top:15px;}
+	header .navbar-toggle .icon-bar{background-color:#888;}
+	ul.reg-link {display: block; position: absolute; top: -40px; right: 12%; left: auto; z-index: 999; padding: 0;}
+	header .navbar-collapse {width: 45%; float: right; background-color: #fff; border: none; position: absolute; right: 25px; padding: 0px 15px;z-index: 999; margin-top: 14px; border-top:1px solid #eee; box-shadow:0 6px 6px -6px #777;}
+	header .navbar li a{padding:7px 15px;}
+	header .navbar-toggle:hover{background:#f4f4f4;}
+	header .navbar li.active > a, header .navbar li.active > a:focus, header .navbar li.active > a:hover {background: url(../images/active2.png) center right 5% no-repeat; -webkit-transition: top 0.3s; -moz-transition: top 0.3s; transition: top 0.3s; color: #3ca748;}
+	.social-sec{margin-top:8px;}
+	header .navbar li a.notify{margin-top:15px;}
+	.res_hide{display:none;}
+	/*.log-form h4:first-child{margin-top:0;}*/
+	.mid-part{padding-bottom:10em;}
+	.about_user .col-md-6{display:inline-block; position:relative; width:40%; float:left;}
+	.about_user .col-md-6:first-child{width:58%;}
+	.about_user ul.pull-right, .contact_dtl h4{padding-top:30px;}
+}
+
+@media only screen and (max-width:736px) {
+	.auction-house table th.col_1{width:40%;}
+	.auction-house table th.col_3, .auction-house table th.col_4{width:15.5%;}
+	.why-rev-auc .box2{min-height:285px;}
+
+}
+@media only screen and (max-width:667px) {
+	ul.reg-link{right:15%;}
+	.banner-sec p{width:99%;}
+	.banner-sec a.buyer-btn{margin-right:7px;}
+	.banner-sec a.supplier-btn {margin-left: 7px;}
+	.auction-house table th.col_3, .auction-house table th.col_4{width:14.5%;}
+	.mid-part{padding-bottom:11em;}
+	.how-work .box h4{min-height:auto;}
+	.live_box form input[type=checkbox]{left:7.5%;}
+
+}
+
+@media only screen and (max-width:640px) {
+	.why-rev-auc .box2 h4{min-height:45px;}
+	.why-rev-auc .box2{min-height:310px;}
+	.reg-inner h2{font-size:20px;}
+	.about_user p{font-size:14px;}
+}
+
+@media only screen and (max-width:600px) {
+	.auction-house table th.col_5{width:22%;}
+	.auction-house table th.col_1{width:45%;}
+	.auction-house .table>tbody>tr>td:nth-child(2), .auction-house .table>thead>tr>th.col_1{padding-left:30px;}
+	.auction-house .footable-row-detail-inner{padding-left:20px;}
+	.auction-house .table>thead>tr>th{font-size:14px;}
+	ul.footer-link li a{padding:2px;}
+	.banner-sec a{padding:7px 28px;}
+
+}
+
+@media only screen and (max-width:575px) {
+	.why-rev-auc .box2{min-height:330px;}
+	.footer-fix .col-md-4{display:block; width:100%;}
+	.mid-part{padding-bottom:14em;}
+	.footer-link{text-align:left !important;}
+	ul.reg-link{right:18%;}
+	.live_box form input[type=checkbox]{left:8.5%;}
+	.about_user .col-md-6{display:block; width:100% !important;}
+	.about_user p{font-size:16px;}
+	.about_user ul.pull-right{padding-top:10px;}
+}
+
+@media only screen and (max-width:530px) {
+	.how-work .col-md-3, .why-rev-auc .col-md-3{display:block; width:100%;}
+	.why-rev-auc .box2 h4, .why-rev-auc .box2{min-height:auto;}
+	.why-rev-auc .box2{padding:15px 15px;}
+	.banner-sec p{width:100%;}
+
+} 
+
+@media only screen and (max-width:481px) {
+	.banner-sec h1, .how-work h1, .auction-house h1, .why-rev-auc h1, .abt-hightree h1{font-size:30px;}
+	.banner-sec h2{font-size:24px;}
+	.main-ttl h1,  .live_box h2{font-size:20px;}
+	.reg-inner h2{font-size:18px;}
+	.banner-sec a{font-size:18px; padding:5px 20px;}
+	.reg-inner, .live_box, .gray_box{padding:15px;}
+	/*.log-form{margin-top:0px;}*/
+	.reg-inner b{padding:5px; margin-bottom:0px;}
+	
+
+}
+@media only screen and (max-width:414px) {
+	ul.reg-link {right: 22%;}
+	.banner-sec h1, .how-work h1, .auction-house h1, .why-rev-auc h1, .abt-hightree h1{font-size:24px;}
+	.banner-sec h2, .timer_sec ul .clock{font-size:18px;}
+	.timer_sec ul .clock{height:35px; width:35px;}
+	.banner-sec a, .how-work .box h4, .why-rev-auc .box2 h4, .log-form h4, .popup_sec .modal-title p{font-size:16px;}
+	.why-rev-auc a.btn-more, .gray_box a.pw_reset_link, .gray_box p.b_txt{font-size:14px;}
+	.popup_sec .modal-title p{width:90%;}
+	header .navbar-collapse{width:54%;}
+	.gray_box .btn_sec a{padding:5px 11px;}
+	.timer_sec ul li{margin-right:5px;}
+
+}
+@media only screen and (max-width:384px) {
+	/*.navbar-toggle{margin-right:0px;}*/
+	header .navbar li .btn-head a{padding:5px 10px;}
+	ul.reg-link{right:20%;}
+	header .navbar-collapse{right:14px; width:92%;}
+	.banner-sec a{font-family:'proximanova-regular'; padding:4px 16px;}
+	.main-ttl h1, .live_box h2{font-size:18px;}
+	.how-work .box h4, .why-rev-auc .box2 h4, .reg-inner h2, .log-form h4, .popup_sec .modal-title p, .inbox_content table td em{font-size:14px;}
+	.reg-inner p strong{color:#555;}
+	.timer_sec ul .clock{height:32px; width:32px;}
+	.user-drilldown{min-width:130px;}
+	ul.dash_inner{padding-top:15px;}
+	.log-form, .how-work .box, .reg-inner, .live_box, .dashboard_filter{margin-top:15px;}
+	.profile_link{margin-top:0;}
+}
+
+@media only screen and (max-width:320px) {
+	body, .table>tbody>tr>td p{font-size:13px;}
+	header .navbar-brand{display:block; width:100%; text-align:center; margin-bottom:20px;}
+	header .navbar-brand img{margin-left:auto; margin-right:auto; float:none; max-height:100px;}
+	.navbar-brand{height:80px;}
+	ul.reg-link{right:auto;}
+	header .navbar-collapse{margin-top:1px;}
+	.banner-sec{padding:25px 0px;}
+	.banner-btn-sec{margin-bottom:0; margin-top:20px;}
+	.banner-sec a, .gray_box .btn_sec a, .live_box .col-sm-6, .dashboard_filter .col-sm-6{display:block; width:100%; text-align:center;}
+	.banner-sec a.buyer-btn{margin-right:0; margin-bottom:15px;}
+	.banner-sec a.supplier-btn{margin-left:0;}
+	.about_user ul.user_info{padding-left:0;}
+	.about_user ul.pull-right{padding-top:0;}
+	.banner-sec h1, .how-work h1, .auction-house h1, .why-rev-auc h1, .abt-hightree h1, ul.dash_inner li span i{font-size:18px;}
+	 ul.dash_inner li span, .inbox_content ul li a.refresh{font-size:14px;}
+	.abt-hightree h1, .why-rev-auc h1, .auction-house h1, .log-form{margin-bottom:15px;}
+	.how-work .box .number {height: 40px; width: 40px; line-height: 42px; margin-top: -32px; font-size: 24px;}
+	header .navbar-collapse{width:90%;}
+	.why-rev-auc a.btn-more{margin-top:-1em;}
+	.timer_sec, .dashboard_filter .dropdown.pull-right{margin-top:15px;}
+	.gray_box .btn_sec a:first-child{margin-right:0px;}
+	.live_box ol, .timer_sec, .dashboard_filter .col-sm-6{text-align:left;}
+	.live_box form input[type=checkbox]{left:11.5%;}
+	.user-drilldown .dropdown-menu{right:auto; left:0;}
+	.dashboard_filter .dropdown.pull-right{float:left !important;}
+	.btn_delete{padding:2px 10px; font-size:12px;}
+	.inbox_content ul li{padding:5px 5px;}
+	.inbox_content ul li:first-child{padding-left:10px;}
+	.mid-part{padding-bottom:15em;}
+}
+
+@media only screen and (max-width:292px) {
+	.social-sec{margin-top:0px;}
+	ul.footer-link li a{padding:0px;}
+	ul.footer-link li{margin-top:2px; display:block;}
+	.mid-part{padding-bottom:20em;}
+	ul.user_info li:first-child{font-size:18px;}
+	.live_box h2, .main-ttl h1{font-size:16px;}
+	.about_user p{font-size:14px;}
+	ul.dash_inner li span i{padding-left:10px;}
+	.about_user{padding:15px 15px;}
+	header .navbar .user-drilldown .dropdown-menu li a{padding:7px 15px;}
+
+}
+@media only screen and (max-width:240px) {
+	.timer_sec ul{padding:10px;}
+	.timer_sec ul .clock{height:30px; width:30px;}
+	.timer_sec ul li{margin-right:2px;}
+	.rating > span{font-size:24px;}
+	.timer_sec ul p{font-size:12px;}
+	.live_box form .btn-primary{padding:6px;}
+	.live_box form input[type=checkbox]{left:14.5%;}
+	ul.dash_inner li span{display:block; width:100%;}
+	ul.dash_inner li span i{padding:0;}
+	ul.dash_inner li span:last-child, .inbox_content table td em:last-child{margin-top:5px;}
+	.inbox_content table td em span{display:block; width:100%; padding-left:0 !important;}
+	.checkbox-inline+.checkbox-inline, .radio-inline+.radio-inline{margin-left:0;}
+
+}
+

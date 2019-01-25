@@ -1,0 +1,31 @@
+ 
+    ul { list-style:none; padding-left:0;}
+    .container{ position:relative; margin: 30px 40px; border:1px solid; min-height:100vh; font-family:'raleway'; font-size:14px; padding:30px;}
+    .trans_date { position:absolute; top:20px; right:20px; }
+    ul.header { font-size:20px; font-weight:600; padding-left: 0; margin-top:50px;  }
+    ul.header li { text-align:center; line-height:27px; }
+    .invoice_title h1 { font-size: 35px; text-transform: uppercase; text-align: center; margin-top: 30px; }
+    .invoice_pin { display:inline-block; }
+    ul.tpin { display:inline-block; border:1px solid; }
+    ul.tpin li { float:left; width:25px; border-left:1px solid; line-height:30px; min-height:30px;}
+    ul.tpin li:first-child { border-left:none; }
+  
+    .invoice_no { float:right; line-height:50px; font-size:18px; }
+    .cust_info { margin-top:30px; }
+    table { width:100%; border-collapse:collapse; }
+    .text-left { text-align:left; }
+    .text-center { text-align:center; }
+    .text-right { text-align:right; }
+    .cust_info table td { padding:8px 0;  }
+    .invoice_table table { border:1px solid;}
+    .invoice_table thead th, .invoice_table tbody td { border-left:1px solid; padding: 5px 10px; }
+    .invoice_table thead th { border-bottom:1px solid ; }
+    .invoice_table thead th:first-child, .invoice_table tbody td:first-child { border-left:0; }
+    
+    .invoice_table tbody tr.for_blank td { padding:15px;  }
+  
+    .top_border { border-top:1px solid; }
+    .pull-right { float:right; }
+    
+    .bottom_sec { margin-top:80px; margin-bottom:40px; }
+    .note { font-size:12px; }

@@ -1,0 +1,72 @@
+/****************************************/
+Skype:sagar.emts
+pass:emts#123
+
+mail:sagar@emultitechsolutions.com
+pass:
+
+
+/****************************************/
+http://nepaimpressions.com/prabin/reverse/dashboard
+username: admin
+password : admin#123
+
+/****************************************/
+Skype authentications
+---------------------
+username:sagar.emts
+passoword : emts#123
+
+/***************************************/
+ftp login details
+-----------------
+host:nepaimpressions.com
+username:emts@nepaimpressions.com
+password:Emts#123
+
+/**************************************/
+Database for nepaimpressions/hightree
+----------------------------
+host:nepaimpressions.com
+User: nepaimpr_hightre
+Pass: emts#123 
+Database: nepaimpr_hightree
+
+/**************************************/
+Database for nepaimpressions/famebit
+----------------------------
+host:nepaimpressions.com
+User: nepaimpr_hightre
+Pass: emts#123 
+Database: nepaimpr_hightree
+
+/**************************************/
+Testing gmail accounts
+----------------------
+emts.testers@gmail.com
+pass: emts5526001
+email: emts123test@gmail.com
+password: emts1234
+/***************************************/
+Facebook account
+----------------
+username:emts123test@gmail.com
+password: emts1234
+
+username: emts.testers@gmail.com
+password : emts@5526001
+/****************************/
+Famebit authentications
+-----------------------
+Famebit creator credentials:
+Email: sergio.fernandez@vidcast.co (.co not .com)
+Password: test12345
+Famebit brand credentials:
+Email: sergio.fernandez.yt@gmail.com
+Password: test12345
+
+/*************************************/
+Paypal account authentications
+------------------------------
+username:sujit@emultitechsolutions.com
+Password : sujitshah
